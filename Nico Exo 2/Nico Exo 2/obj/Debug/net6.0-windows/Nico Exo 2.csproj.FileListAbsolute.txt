@@ -1,0 +1,17 @@
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\bin\Debug\net6.0-windows\Nico Exo 2.exe
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\bin\Debug\net6.0-windows\Nico Exo 2.deps.json
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\bin\Debug\net6.0-windows\Nico Exo 2.runtimeconfig.json
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\bin\Debug\net6.0-windows\Nico Exo 2.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\bin\Debug\net6.0-windows\Nico Exo 2.pdb
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico_Exo_2.Form1.resources
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.csproj.GenerateResource.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\refint\Nico Exo 2.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.pdb
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.genruntimeconfig.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\ref\Nico Exo 2.dll
