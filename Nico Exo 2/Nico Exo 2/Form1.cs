@@ -5,7 +5,7 @@ namespace Nico_Exo_2
     public partial class Form1 : Form
     {
         float var1;
-        float compteur;
+        string compteur;
         float var2;
         TextBox tb;
         string op = "";
@@ -21,18 +21,19 @@ namespace Nico_Exo_2
             Button c = (Button)sender;
 
             tb.Text += c.Text;
-            compteur += float.Parse(c.Text);
+            compteur += c.Text;
         }
 
         private void WhenoperateurClick(object sender, EventArgs e)
         {
+            
             if (op == "")
             {
-                var1 = compteur;
+                var1 = float.Parse(compteur);
             }
             if (op != "")
             {
-                var2 = compteur;
+                var2 = float.Parse(compteur);
 
 
                 if (op == "+")
@@ -58,18 +59,20 @@ namespace Nico_Exo_2
                 var1 = resultat;
             }
             Button o = (Button)sender;
+            
             op = o.Text;
-            tb.Text += o.Text;
-            compteur = 0;
+            if (op != "=")
+            {
+                tb.Text += o.Text;
+            }
+           
+            
+            
+            compteur = "";
 
 
 
 
-
-        }
-
-        private void Effacer(object sender, EventArgs e)
-        {
 
         }
     }
