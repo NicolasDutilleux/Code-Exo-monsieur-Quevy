@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicolas.dutilleux\\Documents\\Nicoals code mr quevy ba2 quad2\\Code-Exo-monsieur-Quevy-main\\Nico Exo 2\\Nico Exo 2\\Nico Exo 2.csproj",
-      "projectName": "Nico Exo 2",
-      "projectPath": "C:\\Users\\nicolas.dutilleux\\Documents\\Nicoals code mr quevy ba2 quad2\\Code-Exo-monsieur-Quevy-main\\Nico Exo 2\\Nico Exo 2\\Nico Exo 2.csproj",
+      "projectUniqueName": "C:\\Users\\nicolas.dutilleux\\Documents\\Nicoals code mr quevy ba2 quad2\\Code-Exo-monsieur-Quevy-main\\Exo code 3\\Exo code 3\\Exo code 3.csproj",
+      "projectName": "Exo code 3",
+      "projectPath": "C:\\Users\\nicolas.dutilleux\\Documents\\Nicoals code mr quevy ba2 quad2\\Code-Exo-monsieur-Quevy-main\\Exo code 3\\Exo code 3\\Exo code 3.csproj",
       "packagesPath": "C:\\Users\\nicolas.dutilleux\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicolas.dutilleux\\Documents\\Nicoals code mr quevy ba2 quad2\\Code-Exo-monsieur-Quevy-main\\Nico Exo 2\\Nico Exo 2\\obj\\",
+      "outputPath": "C:\\Users\\nicolas.dutilleux\\Documents\\Nicoals code mr quevy ba2 quad2\\Code-Exo-monsieur-Quevy-main\\Exo code 3\\Exo code 3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

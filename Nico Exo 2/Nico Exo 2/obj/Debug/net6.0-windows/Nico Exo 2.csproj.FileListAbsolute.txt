@@ -32,3 +32,20 @@ C:\Users\Antoine\Documents\Nicolas\Nicolas Proggra\Code-Exo-monsieur-Quevy-main\
 C:\Users\Antoine\Documents\Nicolas\Nicolas Proggra\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.pdb
 C:\Users\Antoine\Documents\Nicolas\Nicolas Proggra\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.genruntimeconfig.cache
 C:\Users\Antoine\Documents\Nicolas\Nicolas Proggra\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\ref\Nico Exo 2.dll
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\bin\Debug\net6.0-windows\Nico Exo 2.exe
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\bin\Debug\net6.0-windows\Nico Exo 2.deps.json
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\bin\Debug\net6.0-windows\Nico Exo 2.runtimeconfig.json
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\bin\Debug\net6.0-windows\Nico Exo 2.dll
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\bin\Debug\net6.0-windows\Nico Exo 2.pdb
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.csproj.AssemblyReference.cache
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico_Exo_2.Form1.resources
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.csproj.GenerateResource.cache
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.AssemblyInfoInputs.cache
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.AssemblyInfo.cs
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.dll
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\refint\Nico Exo 2.dll
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.pdb
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\Nico Exo 2.genruntimeconfig.cache
+C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Nico Exo 2\Nico Exo 2\obj\Debug\net6.0-windows\ref\Nico Exo 2.dll
