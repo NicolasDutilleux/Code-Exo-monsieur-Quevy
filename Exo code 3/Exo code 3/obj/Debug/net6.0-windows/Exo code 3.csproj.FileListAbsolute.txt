@@ -15,3 +15,20 @@ C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-mo
 C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo code 3.pdb
 C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo code 3.genruntimeconfig.cache
 C:\Users\nicolas.dutilleux\Documents\Nicoals code mr quevy ba2 quad2\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\ref\Exo code 3.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\bin\Debug\net6.0-windows\Exo code 3.exe
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\bin\Debug\net6.0-windows\Exo code 3.deps.json
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\bin\Debug\net6.0-windows\Exo code 3.runtimeconfig.json
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\bin\Debug\net6.0-windows\Exo code 3.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\bin\Debug\net6.0-windows\Exo code 3.pdb
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo code 3.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo_code_3.Form1.resources
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo code 3.csproj.GenerateResource.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo code 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo code 3.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo code 3.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo code 3.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo code 3.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\refint\Exo code 3.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo code 3.pdb
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\Exo code 3.genruntimeconfig.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Code-Exo-monsieur-Quevy-main\Exo code 3\Exo code 3\obj\Debug\net6.0-windows\ref\Exo code 3.dll

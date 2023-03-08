@@ -22,6 +22,8 @@ namespace Exo_code_3
             textBox1.Text = (vScrollBar1.Value).ToString();
             textBox1.TextChanged += new EventHandler(Rouge_Change);
             red = vScrollBar1.Value;
+            Color c = Color.FromArgb(255, red, green, blue);
+            panel1.BackColor = c;
         }
 
         private void WhenScrollG(object sender, ScrollEventArgs e)
@@ -30,6 +32,8 @@ namespace Exo_code_3
             textBox2.Text = (vScrollBar2.Value).ToString();
             textBox2.TextChanged += new EventHandler(Green_Change);
             green = vScrollBar2.Value;
+            Color c = Color.FromArgb(255, red, green, blue);
+            panel1.BackColor = c;
         }
 
         private void WhenScrollB(object sender, ScrollEventArgs e)
@@ -38,6 +42,8 @@ namespace Exo_code_3
             textBox3.Text = (vScrollBar3.Value).ToString();
             textBox3.TextChanged += new EventHandler(Blue_Change);
             blue = vScrollBar3.Value;
+            Color c = Color.FromArgb(255, red, green, blue);
+            panel1.BackColor = c;
         }
 
         private void Rouge_Change(object sender, EventArgs e)
@@ -46,8 +52,13 @@ namespace Exo_code_3
             {
                 textBox1.Text = "0";
             }
-            vScrollBar1.Value = int.Parse(textBox1.Text);
+            if (int.Parse(textBox1.Text)>255)
+            { 
+                textBox1.Text = "255";
+            }
 
+            vScrollBar1.Value = int.Parse(textBox1.Text);
+            red = int.Parse(textBox1.Text);
             Color c = Color.FromArgb(255, red, green, blue);
             panel1.BackColor = c;
         }
@@ -58,7 +69,14 @@ namespace Exo_code_3
             {
                 textBox2.Text = "0";
             }
+            if (int.Parse(textBox2.Text) > 255)
+            {
+                textBox2.Text = "255";
+            }
             vScrollBar2.Value = int.Parse(textBox2.Text);
+            green = int.Parse(textBox2.Text);
+            Color c = Color.FromArgb(255, red, green, blue);
+            panel1.BackColor = c;
         }
 
         private void Blue_Change(object sender, EventArgs e)
@@ -67,9 +85,17 @@ namespace Exo_code_3
             {
                 textBox3.Text = "0";
             }
+            if (int.Parse(textBox3.Text) > 255)
+            {
+                textBox3.Text = "255";
+            }
             vScrollBar3.Value = int.Parse(textBox3.Text);
-            
-            
+            blue = int.Parse(textBox3.Text);
+            Color c = Color.FromArgb(255, red, green, blue);
+            panel1.BackColor = c;
+
+           
+
         }
 
         private void verif1(object sender, KeyPressEventArgs e)
@@ -78,6 +104,7 @@ namespace Exo_code_3
             {
                 e.Handled = true;
             }
+            
         }
 
         private void verif2(object sender, KeyEventArgs e)

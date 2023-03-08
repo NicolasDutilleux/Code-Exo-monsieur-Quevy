@@ -8,27 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nicolas.dutilleux\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Nicolas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicolas.dutilleux\\Documents\\Nicoals code mr quevy ba2 quad2\\Code-Exo-monsieur-Quevy-main\\Exo code 3\\Exo code 3\\Exo code 3.csproj",
+      "projectUniqueName": "C:\\Users\\Nicolas\\Documents\\Nicolas\\école\\BA2\\Q2\\Proggra\\Code-Exo-monsieur-Quevy-main\\Exo code 3\\Exo code 3\\Exo code 3.csproj",
       "projectName": "Exo code 3",
-      "projectPath": "C:\\Users\\nicolas.dutilleux\\Documents\\Nicoals code mr quevy ba2 quad2\\Code-Exo-monsieur-Quevy-main\\Exo code 3\\Exo code 3\\Exo code 3.csproj",
-      "packagesPath": "C:\\Users\\nicolas.dutilleux\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicolas.dutilleux\\Documents\\Nicoals code mr quevy ba2 quad2\\Code-Exo-monsieur-Quevy-main\\Exo code 3\\Exo code 3\\obj\\",
+      "projectPath": "C:\\Users\\Nicolas\\Documents\\Nicolas\\école\\BA2\\Q2\\Proggra\\Code-Exo-monsieur-Quevy-main\\Exo code 3\\Exo code 3\\Exo code 3.csproj",
+      "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nicolas\\Documents\\Nicolas\\école\\BA2\\Q2\\Proggra\\Code-Exo-monsieur-Quevy-main\\Exo code 3\\Exo code 3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\nicolas.dutilleux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -55,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -67,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
