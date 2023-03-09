@@ -26,6 +26,7 @@ namespace Nico_Exo_2
         private void NumberClick(object sender, EventArgs e)
         {
             Button c = (Button)sender;
+            // remettre le texte à "" quand on va retaper un chiffre apres avoir tapé sur un opérateur (+, - etc)
             if (t == 1)
             {
                 tb.Text = "";
@@ -46,7 +47,7 @@ namespace Nico_Exo_2
             {
                 var2 = float.Parse(tb.Text);
 
-
+                // Faire le calcul avec op stocké précédemment dans la mémoire
                 if (op == "+")
                 {
                     resultat = var1 + var2;
@@ -70,7 +71,7 @@ namespace Nico_Exo_2
                 var1 = resultat;
             }
             Button o = (Button)sender;
-
+            // stocker l'opérateur qui vient d'être pressé, passer t = 1 pour permettre de reset à "" dans "NumberClick"
             op = o.Text;
             t = 1;
             if (op == "=")
@@ -81,6 +82,7 @@ namespace Nico_Exo_2
 
         private void WhenCClick(object sender, EventArgs e)
         {
+            //tout reset dans C est click et aussi remettre calculatrice normale si on est en euro Francs
             tb.Text = "";
             op = "";
             if (Euro.Visible == true)
@@ -114,6 +116,7 @@ namespace Nico_Exo_2
 
         private void ClickEffacer(object sender, EventArgs e)
         {
+            // efface le caractere au bout du "string" de la textbox ( au bout du text dans textBox.Text)
             String s = tb.Text;
             s = s.Remove(s.Length - 1);
             tb.Text = s;
@@ -191,6 +194,7 @@ namespace Nico_Exo_2
 
         private void WhenTbClick(object sender, EventArgs e)
         {
+            //focus sur la barre sur laquelle on a cliqué
             tb = (TextBox)sender;
         }
     }
