@@ -305,6 +305,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(232, 29);
             textBox1.TabIndex = 22;
+            textBox1.Click += WhenTbClick;
             // 
             // Euro
             // 
@@ -323,6 +324,7 @@
             Francs.Name = "Francs";
             Francs.Size = new Size(221, 29);
             Francs.TabIndex = 24;
+            Francs.Click += WhenTbClick;
             Francs.TextChanged += Francs_TextChanged;
             Francs.KeyDown += verif2;
             Francs.KeyPress += verif1;
