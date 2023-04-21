@@ -24,6 +24,8 @@ namespace Exo_code_3
             red = vScrollBar1.Value;
             Color c = Color.FromArgb(255, red, green, blue);
             panel1.BackColor = c;
+            long hexa = long.Parse(textBox1.Text);
+            textBox4.Text = Convert.ToString(hexa, 16);
         }
 
         private void WhenScrollG(object sender, ScrollEventArgs e)
@@ -34,6 +36,8 @@ namespace Exo_code_3
             green = vScrollBar2.Value;
             Color c = Color.FromArgb(255, red, green, blue);
             panel1.BackColor = c;
+            long hexa = long.Parse(textBox2.Text);
+            textBox5.Text = Convert.ToString(hexa, 16);
         }
 
         private void WhenScrollB(object sender, ScrollEventArgs e)
@@ -44,6 +48,8 @@ namespace Exo_code_3
             blue = vScrollBar3.Value;
             Color c = Color.FromArgb(255, red, green, blue);
             panel1.BackColor = c;
+            long hexa = long.Parse(textBox3.Text);
+            textBox6.Text = Convert.ToString(hexa, 16);
         }
 
         private void Rouge_Change(object sender, EventArgs e)
@@ -61,6 +67,9 @@ namespace Exo_code_3
             red = int.Parse(textBox1.Text);
             Color c = Color.FromArgb(255, red, green, blue);
             panel1.BackColor = c;
+            
+            long hexa = long.Parse(textBox1.Text);
+            textBox4.Text = Convert.ToString(hexa, 16);
         }
 
         private void Green_Change(object sender, EventArgs e)
@@ -77,6 +86,8 @@ namespace Exo_code_3
             green = int.Parse(textBox2.Text);
             Color c = Color.FromArgb(255, red, green, blue);
             panel1.BackColor = c;
+            long hexa = long.Parse(textBox2.Text);
+            textBox5.Text = Convert.ToString(hexa, 16);
         }
 
         private void Blue_Change(object sender, EventArgs e)
@@ -93,8 +104,9 @@ namespace Exo_code_3
             blue = int.Parse(textBox3.Text);
             Color c = Color.FromArgb(255, red, green, blue);
             panel1.BackColor = c;
+            long hexa = long.Parse(textBox3.Text);
+            textBox6.Text = Convert.ToString(hexa, 16);
 
-           
 
         }
 
