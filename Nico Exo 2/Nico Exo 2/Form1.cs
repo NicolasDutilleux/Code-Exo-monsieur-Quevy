@@ -13,6 +13,11 @@ namespace Nico_Exo_2
         float resultat;
         double resultattrigo;
         int touche;
+        string avantradio = "decimal";
+        string nouveauradio ;
+        long valeurdecimal;
+       
+
         public Form1()
         {
             InitializeComponent();
@@ -196,6 +201,138 @@ namespace Nico_Exo_2
         {
             //focus sur la barre sur laquelle on a cliqué
             tb = (TextBox)sender;
+        }
+
+        private void radioButton_Click(object sender, EventArgs e)
+        {
+            RadioButton c = (RadioButton)sender;
+            nouveauradio = c.Text;
+
+            if(nouveauradio == "Bin")// si Bin
+            {
+                button23.Enabled= false;
+                button24.Enabled = false;
+                button28.Enabled = false;
+                button25.Enabled = false;
+                button26.Enabled = false;
+                button27.Enabled = false; 
+                button1.Enabled = false;
+                button2.Enabled = false;
+                button4.Enabled = false;
+                button5.Enabled = false;
+                button6.Enabled = false;
+                button7.Enabled = false;
+                button8.Enabled = false;
+                button9.Enabled = false;
+                button20.Enabled = false;
+                button21.Enabled = false;
+                button19.Enabled = false;
+                button22.Enabled = false;
+                button11.Enabled = false;
+                button12.Enabled = false;
+                button14.Enabled = false;
+                button15.Enabled = false;
+                button16.Enabled = false;
+                button17.Enabled = false;
+                button18.Enabled = false;
+                button13.Enabled = false;
+
+
+
+
+                if (avantradio== "decimal")
+                    {
+                    valeurdecimal = long.Parse(tb.Text);
+                    tb.Text = Convert.ToString(valeurdecimal, 2);
+
+
+
+                    }
+                else if (avantradio == "hexadecimal")
+                    {
+                       valeurdecimal = Convert.ToInt64(tb.Text, 16);
+                    tb.Text = Convert.ToString(valeurdecimal, 2);
+                   
+                    }
+            }
+            if (nouveauradio == "decimal")// si décimal
+            {
+                button23.Enabled = true;
+                button24.Enabled = true;
+                button28.Enabled = true;
+                button25.Enabled = true;
+                button26.Enabled = true;
+                button27.Enabled = true;
+                button1.Enabled = true;
+                button2.Enabled = true;
+                button4.Enabled = true;
+                button5.Enabled = true;
+                button6.Enabled = true;
+                button7.Enabled = true;
+                button8.Enabled = true;
+                button9.Enabled = true;
+                button20.Enabled = true;
+                button21.Enabled = true;
+                button19.Enabled = true;
+                button22.Enabled = true;
+                button11.Enabled = true;
+                button12.Enabled = true;
+                button14.Enabled = true;
+                button15.Enabled = true;
+                button16.Enabled = true;
+                button17.Enabled = true;
+                button18.Enabled = true;
+                button13.Enabled = true;
+                if (avantradio == "Bin")
+                    {
+                    valeurdecimal = Convert.ToInt64(tb.Text, 2);
+                    tb.Text = valeurdecimal.ToString();
+
+                    }
+                    else if (avantradio == "hexadecimal")
+                    {
+                    
+                        long vdeci = Convert.ToInt64(tb.Text, 16);
+                        tb.Text = vdeci.ToString();
+                    }
+            }
+            if (nouveauradio == "hexadecimal")//hexadecimal
+                    {
+                button23.Enabled = true;
+                button24.Enabled = true;
+                button28.Enabled = true;
+                button25.Enabled = true;
+                button26.Enabled = true;
+                button27.Enabled = true;
+                button20.Enabled = false;
+                button21.Enabled = false;
+                button19.Enabled = false;
+                button22.Enabled = false;
+                button11.Enabled = false;
+                button12.Enabled = false;
+                button14.Enabled = false;
+                button15.Enabled = false;
+                button16.Enabled = false;
+                button17.Enabled = false;
+                button18.Enabled = false;
+                button13.Enabled = false;
+                if (avantradio == "Bin")
+                        {
+
+                    valeurdecimal = Convert.ToInt64(tb.Text, 2);
+                    tb.Text = Convert.ToString(valeurdecimal, 16);
+
+
+                        }
+                        else if (avantradio == "decimal")
+                        {
+                            long hexa = long.Parse(tb.Text);
+                            tb.Text = Convert.ToString(hexa, 16);
+                            
+
+                        }
+                    }
+            avantradio = nouveauradio;
         }
     }
 }
